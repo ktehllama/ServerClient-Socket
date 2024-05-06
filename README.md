@@ -1,5 +1,5 @@
 # ServerClient-Socket
-Send information from an independent client file to server and other clients
+Send information from an independent client file to server and other clients via internet
 
 1: Change client `SERVER` var to IPv4 of server
 <br>
